@@ -4,7 +4,7 @@ public class Unit0Exercises {
         double price = 19.99;
         boolean isPassing = true;
 
-        System.out.println("---Variable Snapshot---");
+        System.out.println("--- Variable Snapshot ---");
         System.out.print("Score: ");
         System.out.println(score);
         System.out.print("Price: ");
@@ -16,7 +16,7 @@ public class Unit0Exercises {
         price = 22.49;
         isPassing = false;
         
-        System.out.println("---After Updates---");
+        System.out.println("--- After Updates ---");
         System.out.print("Score: ");
         System.out.println(score);
         System.out.print("Price: ");
