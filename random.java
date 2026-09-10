@@ -4,6 +4,7 @@ public class random {
         double pi = 3.14;
 
         System.out.print(favnum);
+        
 
     }
 }
