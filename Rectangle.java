@@ -33,9 +33,9 @@ public class Rectangle {
     public double calculateDiagonal(){
         return Math.sqrt(Math.pow(length, 2) + Math.pow(width, 2));
     }
-    public String toString() {
-        return ("The length of this rectangle is " + length + " and the width is " + width);
-    }
+    // public String toString() {
+        // return ("The length of this rectangle is " + length + " and the width is " + width);
+    // }
     public boolean equals(Rectangle other) {
         return (length == other.getLength() && width == other.getWidth());
     }
