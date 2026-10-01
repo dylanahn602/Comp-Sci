@@ -7,7 +7,7 @@ public class BallTester {
         baseball.playWith();
         baseball.checkStats();
         baseball.GamesToday();
-        baseball.setGamesToday();
+        baseball.setGamesToday(3);
         baseball.getGamesToday();
     }
 }
